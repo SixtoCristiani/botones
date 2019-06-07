@@ -112,11 +112,9 @@
 			<header class="major">	
 				<h3>Programa de Construcción con <?php echo $descripcionTipo2[$tipo]?></h3><br/>
 				<h4>				
-					<ul>La construcción con tu <?php echo $descripcionTipo3[$tipo]?> es una oportunidad de voluntariado que permite vivir una experiencia única y muy enriquecedora.<br/> El grupo, que idealmente se conforma entre 6 y 12 personas, tiene la posibilidad de participar y construir una vivienda de emergencia<br/> en conjunto con una familia que hoy se encuentra viviendo en situación de extrema pobreza y vulnerabilidad.</ul>			
-					<ul>La actividad transcurre durante un fin de semana completo y no ​está limitada a la edad ni a las habilidades en construcción de sus voluntarios.<br/> La experiencia se basa en las ganas de compartir, conocer y transformar juntos esta realidad en la que viven más de 800.000 familias del país.</ul>			
-					<ul>Desde TECHO proveemos todo lo necesario para que el grupo se encuentre debidamente acompañado por voluntarios de la organización.<br/> Nos encargamos del trabajo previo en el barrio, el proceso de encuestamiento y selección de las familias, la logística previa<br/> y durante la construcción, de proveer las herramientas y brindar el soporte que sea necesario para así llevar a cabo una gran construcción.</ul>
-					<ul>Por último, <?php echo $descripcionTipo4[$tipo]?> se compromete a financiar en modo de donación el valor total de la vivienda a construir depositando o<br/> transfiriendo ARS $ <?php echo $montos[$sede] * $casas?> (<a href="https://sites.google.com/a/techo.org/veni-a-construir/techo-instructivo-pago-familias" target='_blank'><u>Ver Instructivo</u></a>), como así también llevar la comida para compartir el fin de semana con la familia.</ul>
-					<ul>Para más información o cualquier inquietud que tengas, podés escribirnos a <b><?php echo $mail[$sede]?></b></ul>
+					<ul>La experiencia de construcción de viviendas se sustenta en nuestras ganas de compartir, conocer y transformar juntos la realidad <br/>en la que viven más de 800.000 familias de nuestro país en más de 4.000 barrios populares. <br/> En un grupo de entre 6 y 12 personas y en un fin de semana, vamos a estar construyendo en</ul>			
+					<ul> conjunto con una familia que hoy se encuentra viviendo en situación de pobreza y exclusión. <br/> La experiencia se basa en las ganas de compartir, conocer y transformar juntos esta realidad en la que viven más de 800.000 familias del país.</ul>			
+					 
 				</h4>			
 			</header>					
 		</section>		
